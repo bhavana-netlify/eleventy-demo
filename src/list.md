@@ -3,9 +3,9 @@ title: Tinkering around with Netlify
 layout: layouts/base.njk
 ---
 
-# Exploring Netlify with CSS Tricks
+# You are on the branch now
 
-## What shall we explore?
+## What shall we explore? 
 
 1. Adding a site from a git rep
 1. Naming your site
